@@ -10,3 +10,4 @@ applications:
   services:
   - tracker-backlog-database
   - service-registry-cs
+  - tracker-circuit-breaker-dashboard
